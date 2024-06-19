@@ -271,4 +271,4 @@ if (Get-Command zoxide -ErrorAction SilentlyContinue) {
     }
 }
 
-cls
+#cls
